@@ -11,8 +11,7 @@
     "url": "git+https://github.com/maeldonn/npx_card.git"
   },
   "scripts": {
-    "start": "node card.js",
-    "publish": "npm version major & npm publish"
+    "start": "node card.js"
   },
   "dependencies": {
     "chalk": "^4.1.0",
