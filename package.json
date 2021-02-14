@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "A business card for Maël Donnart (@maeldonn)",
   "main": "card.js",
+  "bin": "./card.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/maeldonn/npx_card.git"
