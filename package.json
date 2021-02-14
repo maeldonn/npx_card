@@ -1,6 +1,6 @@
 {
   "name": "maeldonn",
-  "version": "2.0.0",
+  "version": "1.0.0",
   "description": "A business card for Maël Donnart (@maeldonn)",
   "main": "card.js",
   "bin": {
